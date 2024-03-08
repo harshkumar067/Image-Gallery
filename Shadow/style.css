@@ -1,0 +1,12 @@
+h1{
+    text-shadow: 3px 3px 0.5px hsl(0, 64%, 81%); /* vertical horizontal blur */
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid black; */
+    /* border-color: aqua; */
+     box-shadow: 5px 5px 10px green;  /* using negative value then shadow effect side change */
+     background-color: aqua;
+}
